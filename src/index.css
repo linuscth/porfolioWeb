@@ -1,0 +1,71 @@
+#navTitle {
+    font-family: 'Bruno Ace', cursive;
+    font-family: 'Bruno Ace SC', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Qwitcher Grypen', cursive;
+}
+
+.navbar {
+    background-color: #2b4450;
+    border-bottom: 10px solid #497285;
+    position: fixed;
+    top: 100;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.navChoice {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navChoice:hover {
+    color: yellow;
+    text-decoration-line: overline;
+    pointer-events: stroke;
+    cursor: pointer;
+}
+
+#TheStateReviewer {
+    background-image: url("https://media.istockphoto.com/id/974925270/photo/white-abstract-defocused-background.webp?b=1&s=170667a&w=0&k=20&c=WiGRDDrkIXYHxL3PHIAbOZuCJCZgxI5uRqwK_ADlCLw=");
+    background-size: 100% 100%;
+    opacity: 0.8;
+
+}
+
+#E-Commerce_backEnd {
+    background-image: url("https://media.istockphoto.com/id/974925270/photo/white-abstract-defocused-background.webp?b=1&s=170667a&w=0&k=20&c=WiGRDDrkIXYHxL3PHIAbOZuCJCZgxI5uRqwK_ADlCLw=");
+    background-size: 100% 100%;
+    opacity: 0.8;
+}
+
+#pokemon-index {
+    background-image: url("https://media.istockphoto.com/id/974925270/photo/white-abstract-defocused-background.webp?b=1&s=170667a&w=0&k=20&c=WiGRDDrkIXYHxL3PHIAbOZuCJCZgxI5uRqwK_ADlCLw=");
+    background-size: 100% 100%;
+    opacity: 0.8;
+}
+
+#weatherDashboard {
+    background-image: url("https://media.istockphoto.com/id/974925270/photo/white-abstract-defocused-background.webp?b=1&s=170667a&w=0&k=20&c=WiGRDDrkIXYHxL3PHIAbOZuCJCZgxI5uRqwK_ADlCLw=");
+    background-size: 100% 100%;
+    opacity: 0.8;
+}
+
+.selfIntro {
+    font-family: Gooper;
+    text-decoration-style: solid;
+    font-size: 24.4px;
+}
+
+.hi1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+.hi2 {
+    font-family: cursive;
+    font-weight: bold;
+
+}
