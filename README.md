@@ -20,9 +20,12 @@ Welcome to my React portfolio project! This is a single-page application showcas
 
 As a web developer, having a portfolio is essential to showcase my work to potential employers and collaborate with fellow developers. This React-based portfolio provides an interactive platform to view my projects, learn about my skills, and get in touch with me.
 
+GitHub Repo: https://github.com/linuscth/porfolioWeb
+Deployed URL: https://glittery-narwhal-32205c.netlify.app/
+
 ## Getting Started
 
-To view and interact with the portfolio, visit the live deployment [here](your-live-portfolio-url).
+To view and interact with the portfolio, visit the live deployment [here](https://glittery-narwhal-32205c.netlify.app/).
 
 ## Project Structure
 
