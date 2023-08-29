@@ -28,28 +28,24 @@
 }
 
 #TheStateReviewer {
-    background-image: url("https://media.istockphoto.com/id/974925270/photo/white-abstract-defocused-background.webp?b=1&s=170667a&w=0&k=20&c=WiGRDDrkIXYHxL3PHIAbOZuCJCZgxI5uRqwK_ADlCLw=");
+    background-image: url("https://img.freepik.com/premium-photo/texture-metal_795320-815.jpg");
     background-size: 100% 100%;
-    opacity: 0.8;
 
 }
 
 #E-Commerce_backEnd {
-    background-image: url("https://media.istockphoto.com/id/974925270/photo/white-abstract-defocused-background.webp?b=1&s=170667a&w=0&k=20&c=WiGRDDrkIXYHxL3PHIAbOZuCJCZgxI5uRqwK_ADlCLw=");
+    background-image: url("https://img.freepik.com/premium-photo/texture-metal_795320-815.jpg");
     background-size: 100% 100%;
-    opacity: 0.8;
 }
 
 #pokemon-index {
-    background-image: url("https://media.istockphoto.com/id/974925270/photo/white-abstract-defocused-background.webp?b=1&s=170667a&w=0&k=20&c=WiGRDDrkIXYHxL3PHIAbOZuCJCZgxI5uRqwK_ADlCLw=");
+    background-image: url("https://img.freepik.com/premium-photo/texture-metal_795320-815.jpg");
     background-size: 100% 100%;
-    opacity: 0.8;
 }
 
 #weatherDashboard {
-    background-image: url("https://media.istockphoto.com/id/974925270/photo/white-abstract-defocused-background.webp?b=1&s=170667a&w=0&k=20&c=WiGRDDrkIXYHxL3PHIAbOZuCJCZgxI5uRqwK_ADlCLw=");
+    background-image: url("https://img.freepik.com/premium-photo/texture-metal_795320-815.jpg");
     background-size: 100% 100%;
-    opacity: 0.8;
 }
 
 .selfIntro {
@@ -68,4 +64,9 @@
     font-family: cursive;
     font-weight: bold;
 
+}
+.selfIntro2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration-style: wavy;
+    font-size: 21px;
 }

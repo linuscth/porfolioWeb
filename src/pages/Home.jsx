@@ -5,14 +5,16 @@ export default function Home() {
         <>
             <div className="py-5"></div>
             <div className='row py-4'>
-                <img src="src/resources/edited_C+L-65.jpg" alt="photo of Linus" className='col-4' />
+                <img src="src/resources/edited_C+L-65.jpg" alt="photo of Linus" className='col-4 w-30' />
                 <div className="col-5 p-5 m-5">
                     <div className="">
                         <h1 className="card-header text-body-secondary mx-3 hi1"> Hi! I am <span className="hi2 px-2  ">Linus Cheung</span></h1>
 
                         <div className="card-body p-4 text-body-tertiary text-body-secondary ">
-                            <p className="fs-4 text selfIntro"> I am a dedicated individual who values hard work and critical thinking as the cornerstones of success. I aim to apply my skills from education and work experience in a dynamic, knowledge-driven environment. With strong communication skills and adaptability in fast-paced, growth-oriented settings, I'm seeking a role that offers both personal and professional development.</p>
-                            <Link className="btn btn-outline-primary btn-lg m-4 " to="MyBackground" key={1} smooth={true} duration={50} spy={true}> TELL ME MORE!</Link>
+                            <p className="fs-4 text selfIntro"> A passionate and dedicated individual with a diverse background that merges supply-chain and project management with an exciting new journey in software engineering. With a Bachelor's degree in International Business and a minor in Japanese from the University of California, San Diego, I've built a solid foundation in adaptability, project management, and communication.
+
+                            </p>
+                            <Link className="btn btn-outline-primary btn-lg m-4 " to="Resume" key={1} smooth={true} duration={50} spy={true}> TELL ME MORE!</Link>
                         </div>
                     </div >
 
