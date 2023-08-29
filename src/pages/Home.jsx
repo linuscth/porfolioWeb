@@ -1,11 +1,11 @@
 import { Link } from 'react-scroll';
-
+import pic1 from "../resources/edited_C+L-65.jpg";
 export default function Home() {
     return (
         <>
             <div className="py-5"></div>
             <div className='row py-4'>
-                <img src="src/resources/edited_C+L-65.jpg" alt="photo of Linus" className='col-4 w-30' />
+                <img src={pic1} alt="photo of Linus" className='col-4 w-30' />
                 <div className="col-5 p-5 m-5">
                     <div className="">
                         <h1 className="card-header text-body-secondary mx-3 hi1"> Hi! I am <span className="hi2 px-2  ">Linus Cheung</span></h1>
