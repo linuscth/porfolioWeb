@@ -26,9 +26,9 @@ function Myprojects() {
 
 
     return (
-        <div className=" d-flex flex-column m-5 p-5">
+        <div className=" d-flex flex-column p-5">
             <div className="d-flex justify-content-center m-5">
-                < h3 className="font-family-sans-serif p-5" > My Projects</h3 >
+                < h3 className="font-family-sans-serif p-3 text-muted  border-bottom border-5" > My Portfolio </h3 >
             </div>
             <ProjectResult results={results} />
         </div >
