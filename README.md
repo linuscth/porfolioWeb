@@ -4,7 +4,7 @@
 ![Screenshot2](./src/resources/Screen%20Shot%202023-08-28%20at%2010.29.07%20PM.png)
 ![Screenshot2](./src/resources/Screen%20Shot%202023-08-28%20at%2010.30.37%20PM.png)
 
-Welcome to my React portfolio project! This is a single-page application showcasing my web development projects and skills. You can visit the live deployment of the portfolio here](https://glittery-narwhal-32205c.netlify.app/).
+Welcome to my React portfolio project! This is a single-page application showcasing my web development projects and skills. You can visit the live deployment of the portfolio [here](https://glittery-narwhal-32205c.netlify.app/).
 
 ## Table of Contents
 
