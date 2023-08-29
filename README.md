@@ -4,7 +4,7 @@
 ![Screenshot2](./src/resources/Screen%20Shot%202023-08-28%20at%2010.29.07%20PM.png)
 ![Screenshot2](./src/resources/Screen%20Shot%202023-08-28%20at%2010.30.37%20PM.png)
 
-Welcome to my React portfolio project! This is a single-page application showcasing my web development projects and skills. You can visit the live deployment of the portfolio [here](https://glittery-narwhal-32205c.netlify.app/).
+Welcome to my React portfolio project! This is a single-page application showcasing my web development projects and skills. You can visit the live deployment of the portfolio [here](https://linus-cheung-portfolio.netlify.app/).
 
 ## Table of Contents
 
@@ -21,11 +21,11 @@ Welcome to my React portfolio project! This is a single-page application showcas
 As a web developer, having a portfolio is essential to showcase my work to potential employers and collaborate with fellow developers. This React-based portfolio provides an interactive platform to view my projects, learn about my skills, and get in touch with me.
 
 GitHub Repo: https://github.com/linuscth/porfolioWeb
-Deployed URL: https://glittery-narwhal-32205c.netlify.app/
+Deployed URL: https://linus-cheung-portfolio.netlify.app/
 
 ## Getting Started
 
-To view and interact with the portfolio, visit the live deployment [here](https://glittery-narwhal-32205c.netlify.app/).
+To view and interact with the portfolio, visit the live deployment [here](https://linus-cheung-portfolio.netlify.app/).
 
 ## Project Structure
 
