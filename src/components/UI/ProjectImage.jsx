@@ -2,6 +2,7 @@ import TheStateReviewer from "../../resources/TheStateReviewer.png";
 import pokemonIndex from "../../resources/pokemon-index.png";
 import eCommerceBackEnd from "../../resources/E-Commerce_backEnd.png";
 import weatherDashboard from "../../resources/weatherDashboard.png";
+import Password_Generator from "../../resources/Password_Generator.png";
 
 function ProjectImage(props) {
     console.log(props.props);
@@ -20,12 +21,16 @@ function ProjectImage(props) {
             imageSource = weatherDashboard;
             break;
 
+        case 'Password_Generator':
+            imageSource = Password_Generator;
+            break;
+
     }
     return (
         <img
             src={imageSource}
             alt="projectPic"
-            className=" rounded p-2"
+            className=" rounded card-img-top projectPic"
         />
 
     );

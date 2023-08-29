@@ -27,27 +27,22 @@
     cursor: pointer;
 }
 
-#TheStateReviewer {
+.projectCard {
     background-image: url("https://img.freepik.com/premium-photo/texture-metal_795320-815.jpg");
     background-size: 100% 100%;
+    opacity:0.85 ;
 
 }
 
-#E-Commerce_backEnd {
+.projectCard:hover {
     background-image: url("https://img.freepik.com/premium-photo/texture-metal_795320-815.jpg");
     background-size: 100% 100%;
-}
+    opacity:1 ;
 
-#pokemon-index {
-    background-image: url("https://img.freepik.com/premium-photo/texture-metal_795320-815.jpg");
-    background-size: 100% 100%;
 }
-
-#weatherDashboard {
-    background-image: url("https://img.freepik.com/premium-photo/texture-metal_795320-815.jpg");
-    background-size: 100% 100%;
+.projectCardBody{
+    background-color: rgb(57, 55, 49);
 }
-
 .selfIntro {
     font-family: Gooper;
     text-decoration-style: solid;
@@ -69,4 +64,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration-style: wavy;
     font-size: 21px;
+}
+.projectPic {
+    height: 15rem; 
 }
