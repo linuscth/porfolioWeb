@@ -68,3 +68,13 @@
 .projectPic {
     height: 15rem; 
 }
+.contactForm {
+    text-align: center;
+    max-width: 25% ;
+    margin: 10px auto;
+  }
+  Form {
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    padding: 20px;
+  }
