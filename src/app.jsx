@@ -6,7 +6,7 @@ import Home from "./pages/Home";
 import Myprojects from "./pages/Myprojects";
 import MyBackground from "./pages/MyBackground";
 import Footer from "./components/Footer";
-// import ContactPage from "./pages/ContactPage";
+import ContactPage from "./pages/ContactPage";
 function App() {
     return (
         <>
@@ -25,8 +25,9 @@ function App() {
                     <Myprojects />
                 </Element>
                 <Element name="contact">
-                    <Footer />
+                    <ContactPage />
                 </Element>
+                <Footer />
             </div>
         </>
     )
